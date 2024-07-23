@@ -1,89 +1,67 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int ans = 0;
-    int len = s.length();
-    for (int i = 0; i < len; i++)
-    {
-        if (i < len - 1 && s[i + 1] == 'V')
-        {
-            if (s[i] == 'I')
-            {
-                ans += 4;
-                i++;
-                continue;
+        int n=s.length();
+        int sum=0;
+        for(int i=n-1;i>=0;i--){
+            if(s[i]=='I') sum+=1;
+            if(s[i]=='V'){
+                if(i-1>=0 && s[i-1]=='I'){
+                    sum+=4;
+                    i--;
+                }
+                else{
+                    sum+=5;
+                }
             }
-        }
-        if (i < len - 1 && s[i + 1] == 'X')
-        {
-            if (s[i] == 'I')
-            {
-                ans += 9;
-                i++;
-                continue;
+            if(s[i]=='X'){
+                if(i-1>=0 && s[i-1]=='I'){
+                    sum+=9;
+                    i--;
+                }
+                else{
+                    sum+=10;
+                }
             }
-        }
-        if (i < len - 1 && s[i + 1] == 'L')
-        {
-            if (s[i] == 'X')
-            {
-                ans += 40;
-                i++;
-                continue;
+            if(s[i]=='L'){
+                if(i-1>=0 && s[i-1]=='X'){
+                    sum+=40;
+                    i--;
+                }
+                else{
+                    sum+=50;
+                }
             }
-        }
-        if (i < len - 1 && s[i + 1] == 'C')
-        {
-            if (s[i] == 'X')
-            {
-                ans += 90;
-                i++;
-                continue;
+            if(s[i]=='C'){
+                if(i-1>=0 && s[i-1]=='X'){
+                    sum+=90;
+                    i--;
+                }
+                else{
+                    sum+=100;
+                }
             }
-        }
-        if (i < len - 1 && s[i + 1] == 'D')
-        {
-            if (s[i] == 'C')
-            {
-                ans += 400;
-                i++;
-                continue;
+            if(s[i]=='D'){
+                if(i-1>=0 && s[i-1]=='C'){
+                    sum+=400;
+                    i--;
+                }
+                else{
+                    sum+=500;
+                }
             }
-        }
-        if (i < len - 1 && s[i + 1] == 'M')
-        {
-            if (s[i] == 'C')
-            {
-                ans += 900;
-                i++;
-                continue;
+            if(s[i]=='M'){
+                if(i-1>=0 && s[i-1]=='C'){
+                    sum+=900;
+                    i--;
+                }
+                else{
+                    sum+=1000;
+                }
             }
+            
+            
         }
-        switch (s[i])
-        {
-        case 'I':
-            ans += 1;
-            break;
-        case 'V':
-            ans += 5;
-            break;
-        case 'X':
-            ans += 10;
-            break;
-        case 'L':
-            ans += 50;
-            break;
-        case 'C':
-            ans += 100;
-            break;
-        case 'D':
-            ans += 500;
-            break;
-        case 'M':
-            ans += 1000;
-            break;
-        }
-    }
-    return ans;
-    }
+        return sum;
+    }  
 };

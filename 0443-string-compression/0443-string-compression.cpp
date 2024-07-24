@@ -17,9 +17,11 @@ public:
             // write letter to compressed vector
             chars[ans++] = letter;
 
-            // if count is greater than 1, write count as string to compressed vector
+            // if count is greater than 1, write count as string to compressed
+            // vector
             if (count > 1) {
-                // convert count to string and iterate over each character in string
+                // convert count to string and iterate over each character in
+                // string
                 for (const char c : to_string(count)) {
                     chars[ans++] = c;
                 }

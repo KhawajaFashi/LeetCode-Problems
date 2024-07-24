@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

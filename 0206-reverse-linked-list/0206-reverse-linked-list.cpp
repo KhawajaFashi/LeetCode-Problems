@@ -22,7 +22,6 @@ public:
             prev = curr;
             curr = forw;
         }
-        head = prev;
-        return head;
+        return prev;
     }
 };

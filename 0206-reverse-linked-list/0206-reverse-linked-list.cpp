@@ -22,7 +22,7 @@ public:
             prev = curr;
             curr = forw;
         }
-        head=prev;
+        head = prev;
         return head;
     }
 };

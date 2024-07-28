@@ -10,18 +10,39 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        if (head == NULL || head->next == NULL)
-            return head;
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        ListNode* forw = new ListNode(0);
-        while (forw != NULL) {
-            forw = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = forw;
-        }
-        return prev;
+void recursive(ListNode *prev, ListNode *curr, ListNode *&head)
+{
+    if (curr == NULL){
+        head=prev;
+        return;
     }
+    ListNode* forw = curr->next;
+    curr->next = prev;
+    recursive(curr, forw, head);
+}
+ListNode *reverseList(ListNode *head)
+{
+    if (head == NULL || head->next == NULL)
+        return head;
+    ListNode *prev = NULL;
+    ListNode *curr = head;
+    recursive(prev, curr, head);
+    return head;
+}
+// ListNode *reverseList(ListNode *head)
+// {
+//     if (head == NULL || head->next == NULL)
+//         return head;
+//     ListNode *prev = NULL;
+//     ListNode *curr = head;
+//     ListNode *forw = new ListNode(0);
+//     while (forw != NULL)
+//     {
+//         forw = curr->next;
+//         curr->next = prev;
+//         prev = curr;
+//         curr = forw;
+//     }
+//     return prev;
+// }
 };

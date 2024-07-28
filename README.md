@@ -125,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Interactive
 |  |
 | ------- |

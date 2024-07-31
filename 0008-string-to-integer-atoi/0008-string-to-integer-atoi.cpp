@@ -9,14 +9,14 @@ public:
                 j++;
                 continue;
             }
-            if (s[i] == ' ' && j==0)
+            if (s[i] == ' ' && j == 0)
                 continue;
             if (s[i] == '-' && ans == 0 && j == 0) {
                 j++;
                 check = true;
                 continue;
             }
-            if (s[i] == '+' && ans == 0 && j == 0){
+            if (s[i] == '+' && ans == 0 && j == 0) {
                 j++;
                 continue;
             }

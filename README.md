@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [2812-find-the-maximum-achievable-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |

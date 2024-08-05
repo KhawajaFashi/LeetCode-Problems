@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Linked List
 |  |
 | ------- |

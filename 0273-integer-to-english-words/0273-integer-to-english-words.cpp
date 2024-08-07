@@ -6,9 +6,7 @@ public:
             "Five",    "Six",     "Seven",     "Eight",    "Nine",
             "Ten",     "Eleven",  "Twelve",    "Thirteen", "Fourteen",
             "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
-        const vector<string> tens = {"",       "",      "Twenty", "Thirty",
-                                     "Forty",  "Fifty", "Sixty",  "Seventy",
-                                     "Eighty", "Ninety"};
+        const vector<string> tens = {"",       "",      "Twenty",       "Thirty",       "Forty",       "Fifty",       "Sixty",       "Seventy",       "Eighty",       "Ninety"};
         const vector<string> thousands = {"", "Thousand", "Million", "Billion"};
         string res = "";
         int index = 0;

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -204,7 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [2048-build-array-from-permutation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->

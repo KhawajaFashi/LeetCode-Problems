@@ -232,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+## Tree
+|  |
+| ------- |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->

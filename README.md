@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -238,13 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->

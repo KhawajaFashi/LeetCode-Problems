@@ -3,13 +3,13 @@ public:
     bool containsNearbyDuplicate(std::vector<int>& nums, int k) {
         int n = nums.size();
         unordered_map<int, int> numIndices;
-        for (int currentIndex = 0; currentIndex < n; ++currentIndex) {
-            int currentNum = nums[currentIndex];
+        for (int i = 0; i < n; ++i) {
+            int currentNum = nums[i];
             if (numIndices.find(currentNum) != numIndices.end()) {
-                if (currentIndex - numIndices[currentNum] <= k) 
+                if (i - numIndices[currentNum] <= k) 
                     return true;
             }
-            numIndices[currentNum]= currentIndex;
+            numIndices[currentNum]= i;
         }
         return false;
     }

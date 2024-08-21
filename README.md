@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1580-shuffle-the-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |

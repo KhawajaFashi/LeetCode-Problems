@@ -1,8 +1,8 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int n = nums.size(), zero = 0;
-        int left = 0, right = 0, zero_cnt = 0, max = 0, count;
+        int n = nums.size(), left = 0, right = 0, zero_cnt = 0, max = 0,
+            count = 0;
         while (right < n) {
             if (nums[right] == 0)
                 zero_cnt++;

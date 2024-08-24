@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [2812-find-the-maximum-achievable-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |

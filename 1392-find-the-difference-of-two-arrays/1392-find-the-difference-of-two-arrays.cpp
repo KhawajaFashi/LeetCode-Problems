@@ -31,9 +31,7 @@ public:
         for(auto x : s1)
         {
             if(s2.count(x) == 0)
-            {
                 res1.push_back(x);
-            }
         }
         
         // now traverse over s2 and create res2
@@ -41,9 +39,7 @@ public:
         for(auto x : s2)
         {
             if(s1.count(x) == 0)
-            {
                 res2.push_back(x);
-            }
         }
         
         return {res1, res2};

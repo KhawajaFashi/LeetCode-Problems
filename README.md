@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [2812-find-the-maximum-achievable-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

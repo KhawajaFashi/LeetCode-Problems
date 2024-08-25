@@ -17,7 +17,6 @@ public:
         if (root == NULL)
             return arr;
         if (root->left == NULL && root->right == NULL) {
-            cout << root->val << endl;
             arr.push_back(root->val);
             return arr;
         }

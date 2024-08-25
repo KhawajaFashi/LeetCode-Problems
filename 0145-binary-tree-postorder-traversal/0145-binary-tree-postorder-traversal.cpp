@@ -25,16 +25,19 @@ public:
     //     arr.push_back(root->val);
     //     return arr;
     // }
-    void solve(TreeNode* root, vector<int>& ans) {
-        if (root == NULL)
+
+    vector<int> p;
+    void get(TreeNode* root) {
+        if (!root)
             return;
-        solve(root->left, ans);
-        solve(root->right, ans);
-        ans.push_back(root->val);
+        get(root->left);
+        get(root->right);
+        p.push_back(root->val);
     }
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        solve(root, ans);
-        return ans;
+        get(root);
+        return p;
+
+        //  if you like my approach then please UpVOTE o((>ω< ))o
     }
 };

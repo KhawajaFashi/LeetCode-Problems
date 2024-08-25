@@ -12,17 +12,29 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-    vector<int> postorderTraversal(TreeNode* root) {
+    // vector<int> arr;
+    // vector<int> postorderTraversal(TreeNode* root) {
+    //     if (root == NULL)
+    //         return arr;
+    //     if (root->left == NULL && root->right == NULL) {
+    //         arr.push_back(root->val);
+    //         return arr;
+    //     }
+    //     arr = postorderTraversal(root->left);
+    //     arr = postorderTraversal(root->right);
+    //     arr.push_back(root->val);
+    //     return arr;
+    // }
+    void solve(TreeNode* root, vector<int>& ans) {
         if (root == NULL)
-            return arr;
-        if (root->left == NULL && root->right == NULL) {
-            arr.push_back(root->val);
-            return arr;
-        }
-        arr = postorderTraversal(root->left);
-        arr = postorderTraversal(root->right);
-        arr.push_back(root->val);
-        return arr;
+            return;
+        solve(root->left, ans);
+        solve(root->right, ans);
+        ans.push_back(root->val);
+    }
+    vector<int> postorderTraversal(TreeNode* root) {
+        vector<int> ans;
+        solve(root, ans);
+        return ans;
     }
 };

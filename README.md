@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |

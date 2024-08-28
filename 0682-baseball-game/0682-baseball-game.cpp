@@ -4,20 +4,10 @@ public:
         stack<int> st;
         int a, b;
         for (int i = 0; i < operations.size(); i++) {
-            // cout << "hel";
             if (operations[i] != "+" && operations[i] != "D" &&
-                operations[i] != "C") {
-                int num = 0;
-                for (int j = 0; j < operations[i].size(); j++) {
-                    if (operations[i][j] == '-')
-                        continue;
-                    if (operations[i][0] == '-')
-                        num = num * 10 - (operations[i][j] - '0');
-                    else
-                        num = (num * 10) + (operations[i][j] - '0');
-                }
-                st.push(num);
-            } else {
+                operations[i] != "C") 
+                st.push(stoi(operations[i]));
+            else {
                 if (operations[i] == "C")
                     st.pop();
                 else if (operations[i] == "D") {

@@ -4,13 +4,13 @@ public:
         stack<int> stk;
         for (int ast : asteroids) {
             while (!stk.empty() && stk.top() > 0 && ast < 0) {
-                int diff = ast + stk.top();
+                int diff = stk.top() + ast;
                 if (diff > 0)
                     ast = 0;
                 else if (diff < 0)
                     stk.pop();
-                else {
-                    ast = 0;
+                else{
+                    ast=0;
                     stk.pop();
                 }
             }

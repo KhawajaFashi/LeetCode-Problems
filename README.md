@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -294,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

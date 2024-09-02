@@ -5,10 +5,10 @@ public:
         for (int s : chalk) {
             sum += s;
         }
-        int rem = k % sum, i;
-        for (i = 0; rem >= chalk[i]; i++) {
-            rem -= chalk[i];
+        int remaining = k % sum, StudentIndex;
+        for (StudentIndex = 0; remaining >= chalk[StudentIndex]; StudentIndex++) {
+            remaining -= chalk[StudentIndex];
         }
-        return i;
+        return StudentIndex;
     }
 };

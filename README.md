@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |

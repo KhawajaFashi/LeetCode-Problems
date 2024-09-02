@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

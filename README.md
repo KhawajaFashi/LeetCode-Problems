@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |

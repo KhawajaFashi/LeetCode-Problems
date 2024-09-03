@@ -25,8 +25,9 @@ public:
         // convert letters to digits
         for (char c : s) {
             int x = c - 'a' + 1;
-            auto [q, r] = div(x, 10); // x may has 1~2 digits
-            num += q + r;
+            auto [quot, rem] = div(x, 10); // x may has 1~2 digits
+//div(x, 10) first will return quotient and second value of pair will return remainder
+            num += quot + rem;
         }
         //    cout<<num<<endl;
         if (k == 1)
@@ -34,9 +35,9 @@ public:
         k--;
         for (int x = num; x >= 10 && k > 0; k--) {
             for (num = 0; x > 0;) {
-                auto [q, r] = div(x, 10);
-                num += r;
-                x = q;
+                auto [quot, rem] = div(x, 10);
+                num += rem;
+                x = quot;
             }
             //        cout<<"k="<<k<<", num="<<num<<endl;
             x = num;

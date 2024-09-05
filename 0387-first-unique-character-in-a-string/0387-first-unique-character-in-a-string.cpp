@@ -4,7 +4,7 @@ public:
     int firstUniqChar(string s) {
         int charArr[26] = {0};
         int stringlen = (s.length());
-        int i, index;
+        int i;
 
         for (i = 0; i < stringlen; ++i) {
             charArr[s[i] - 'a']++;

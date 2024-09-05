@@ -1,16 +1,38 @@
-
+auto init = []() {cin.tie(0); ios::sync_with_stdio(0); return 1;}();
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char, int> mp;
-        for (int a : s)
-            mp[a]++;
-        for (int i = 0; i < s.size(); i++)
-            if (mp[s[i]] == 1)
+        int charArr[26] = {0};
+        int stringlen = (s.length());
+        int i, index;
+
+        for (i = 0; i < stringlen; ++i) {
+            charArr[s[i] - 'a']++;
+        }
+
+        for (i = 0; i < stringlen; ++i) {
+            if (charArr[s[i] - 'a'] == 1) {
                 return i;
+            }
+        }
+
         return -1;
     }
+
 };
+
+// class Solution {
+// public:
+//     int firstUniqChar(string s) {
+//         unordered_map<char, int> mp;
+//         for (int a : s)
+//             mp[a]++;
+//         for (int i = 0; i < s.size(); i++)
+//             if (mp[s[i]] == 1)
+//                 return i;
+//         return -1;
+//     }
+// };
 
 // class Solution {
 // public:

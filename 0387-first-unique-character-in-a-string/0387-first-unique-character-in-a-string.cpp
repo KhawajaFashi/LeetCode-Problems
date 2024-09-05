@@ -1,4 +1,3 @@
-// auto init = []() {cin.tie(0); ios::sync_with_stdio(0); return 1;}();
 class Solution {
 public:
     int firstUniqChar(string s) {
@@ -20,6 +19,7 @@ public:
     }
 
 };
+// auto init = []() {cin.tie(0); ios::sync_with_stdio(0); return 1;}();
 
 // class Solution {
 // public:

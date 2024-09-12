@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Linked List

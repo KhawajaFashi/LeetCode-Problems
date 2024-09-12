@@ -8,6 +8,5 @@ class Solution:
                 else:
                     a -= 1
                     break
-                #print(f"{words[i][j]}   {a}  ",end="")
             a += 1
         return a

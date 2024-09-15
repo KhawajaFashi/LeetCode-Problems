@@ -1,15 +1,26 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
-        unordered_map<int, int> m{{0, -1}};
-        int res = 0, n = s.length(), cur = 0;
-        for (int i = 0; i < n; i++) {
-            cur ^= 1 << string("aeiou").find(s[i]) + 1 >> 1;
-            if (!m.count(cur)) m[cur] = i;
-            res = max(res, i - m[cur]);
+        int mask=0;
+        unordered_map<int,int>mp;
+        mp[0]=-1;
+        int ans = 0;
+        for(int i=0;i<s.size();i++){
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
+                mask = mask^(s[i]-'a'+1);
+            }
+            if(mp.find(mask)!=mp.end()){
+                ans = max(ans,i-mp[mask]);
+            }
+            else{
+                mp[mask] = i;
+            }
         }
-        return res;
+        
+        return ans;
+        
     }
+};
     // int findTheLongestSubstring(string s) {
     //     int n = s.length();
     //     int maxLen = 0;
@@ -36,4 +47,3 @@ public:
     //     }
     //     return maxLen;
     // }
-};

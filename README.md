@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 ## Interactive
 |  |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

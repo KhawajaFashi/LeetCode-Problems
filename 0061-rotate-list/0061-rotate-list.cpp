@@ -9,13 +9,9 @@ public:
             return head;
         if (curr != NULL) {
             prev->next = curr->next;
-            // curr = curr->next;
             curr->next = head;
             head = curr;
-            cout << curr->next->val << "     " << head->val << "     " << count
-                 << endl;
         }
-        // cout << prev->next->val << endl;
         return prev;
     }
     ListNode* rotateRight(ListNode* head, int k) {

@@ -11,31 +11,29 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        if(head==NULL||head->next==NULL)
-        return head;
-        ListNode* prev=head;
-        ListNode* curr=head->next;
-        ListNode* forw=head->next;
-        while(forw!=NULL&&curr!=NULL){
-            if(prev==head){
-                prev->next=curr->next;
-                curr->next=prev;
-                head=curr;
-                // cout<<head->val<<endl;
-                // cout<<curr->next->val<<endl;
-                prev=curr->next;
-                curr=prev->next;
-                if(curr!=NULL)
-                forw=curr->next;
+        if(head == NULL || head->next == NULL)
+            return head;
+        ListNode* prev = head;
+        ListNode* curr = head->next;
+        ListNode* forw = head->next;
+        while(forw != NULL && curr != NULL){
+            if(prev == head){
+                prev->next = curr->next;
+                curr->next = prev;
+                head = curr;
+                prev = curr->next;
+                curr = prev->next;
+                if(curr != NULL)
+                    forw = curr->next;
             }   
             else{
-                curr->next=forw->next;
-                forw->next=curr;
-                prev->next=forw;
-                prev=forw->next;
-                curr=curr->next;
-                if(curr!=NULL)
-                forw=curr->next;
+                curr->next = forw->next;
+                forw->next = curr;
+                prev->next = forw;
+                prev = forw->next;
+                curr = curr->next;
+                if(curr != NULL)
+                    forw = curr->next;
             }         
         }
         return head;

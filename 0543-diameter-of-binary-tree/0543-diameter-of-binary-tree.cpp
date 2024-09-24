@@ -25,7 +25,7 @@ public:
         int op1 = diameterOfBinaryTree(root->left);
         int op2 = diameterOfBinaryTree(root->right);
         int op3 = maxDepth(root->left) + maxDepth(root->right);
-        int ans=max(op1, max(op2, op3));
+        int ans = max(op1, max(op2, op3));
         return ans;
     }
 };

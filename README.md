@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack

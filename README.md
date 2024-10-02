@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [1256-rank-transform-of-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |

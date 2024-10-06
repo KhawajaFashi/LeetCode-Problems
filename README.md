@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0027-remove-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |

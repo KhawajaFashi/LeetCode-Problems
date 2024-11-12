@@ -461,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

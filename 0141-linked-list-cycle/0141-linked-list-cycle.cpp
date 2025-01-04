@@ -14,14 +14,12 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         fast = fast->next;
-        while (fast != slow && fast) {
+        while (fast != slow && fast && fast->next) {
             slow = slow->next;
-            fast = fast->next;
-            if (fast)
-                fast = fast->next;
+            fast = fast->next->next;
         }
-        if (!fast)
-            return false;
-        return true;
+        if (fast == slow)
+            return true;
+        return false;
     }
 };

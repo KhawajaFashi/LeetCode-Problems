@@ -1,18 +1,21 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        map<char, int> mp;
-        for (auto a : ransomNote)
-            mp[a]++;
-
-        for (auto a : magazine) {
-            if (mp[a] >= 1)
-                mp[a]--;
-            if (mp[a] == 0)
-                mp.erase(a);
+        vector<int> alpha(26, 0);
+        for( auto a: ransomNote){
+            int index = int(a - 'a');
+            alpha[index]++;
         }
-        if (mp.size() > 0)
-            return false;
+        for (auto a : magazine)
+        {
+            int index = int(a - 'a');
+            if(alpha[index]>=1)
+                alpha[index]--;
+        }
+        for(auto a:alpha){
+            if(a>=1)
+                return false;
+        }
         return true;
     }
 };

@@ -3,10 +3,6 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         queue<pair<int, int>> q;
         map<pair<int, int>, bool> visited;
-        for (int i = 0; i < grid.size(); i++) {
-            for (int j = 0; j < grid[i].size(); j++)
-                visited[{i, j}] = false;
-        }
         int islands = 0;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[i].size(); j++) {

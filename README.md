@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0735-asteroid-collision) |

@@ -18,19 +18,13 @@ public:
         diameter(root, max);
         return max;
     }
-    void diameter(TreeNode* root, int& max) {
-        if (root == NULL)
-            return;
-        diameter(root->left, max);
-        int t_height = Height(root->left) + Height(root->right);
-        max = max < t_height ? t_height : max;
-        diameter(root->right, max);
-        // return max;
-    }
-    int Height(TreeNode* root) {
+    int diameter(TreeNode* root, int& maxi) {
         if (root == NULL)
             return 0;
-        return max(Height(root->left), Height(root->right)) + 1;
+        int l_height = diameter(root->left, maxi);
+        int r_height = diameter(root->right, maxi);
+        maxi = max(maxi, l_height + r_height);
+        return max(r_height, l_height) + 1;
     }
 
     // pair<int, int> diameterOfBinary(TreeNode* root) {

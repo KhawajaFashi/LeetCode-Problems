@@ -12,12 +12,13 @@
  */
 class Solution {
 public:
-    int minDepth(TreeNode *root)
-    {
+    int minDepth(TreeNode* root) {
         if (!root)
             return 0;
         int l_depth = minDepth(root->left);
         int r_depth = minDepth(root->right);
-        return (min(l_depth, r_depth) ? min(l_depth, r_depth) : max(l_depth, r_depth)) + 1;
+        return (min(l_depth, r_depth) ? min(l_depth, r_depth)
+                                      : max(l_depth, r_depth)) +
+               1;
     }
 };

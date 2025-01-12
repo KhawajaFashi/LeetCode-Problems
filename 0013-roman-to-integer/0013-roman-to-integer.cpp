@@ -1,67 +1,27 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int n=s.length();
-        int sum=0;
-        for(int i=n-1;i>=0;i--){
-            if(s[i]=='I') sum+=1;
-            if(s[i]=='V'){
-                if(i-1>=0 && s[i-1]=='I'){
-                    sum+=4;
-                    i--;
-                }
-                else{
-                    sum+=5;
-                }
-            }
-            if(s[i]=='X'){
-                if(i-1>=0 && s[i-1]=='I'){
-                    sum+=9;
-                    i--;
-                }
-                else{
-                    sum+=10;
-                }
-            }
-            if(s[i]=='L'){
-                if(i-1>=0 && s[i-1]=='X'){
-                    sum+=40;
-                    i--;
-                }
-                else{
-                    sum+=50;
-                }
-            }
-            if(s[i]=='C'){
-                if(i-1>=0 && s[i-1]=='X'){
-                    sum+=90;
-                    i--;
-                }
-                else{
-                    sum+=100;
-                }
-            }
-            if(s[i]=='D'){
-                if(i-1>=0 && s[i-1]=='C'){
-                    sum+=400;
-                    i--;
-                }
-                else{
-                    sum+=500;
-                }
-            }
-            if(s[i]=='M'){
-                if(i-1>=0 && s[i-1]=='C'){
-                    sum+=900;
-                    i--;
-                }
-                else{
-                    sum+=1000;
-                }
-            }
-            
-            
+        unordered_map<char, int> mp;
+        int num = 0;
+        mp.insert({'I', 1});
+        mp.insert({'V', 5});
+        mp.insert({'X', 10});
+        mp.insert({'L', 50});
+        mp.insert({'C', 100});
+        mp.insert({'D', 500});
+        mp.insert({'M', 1000});
+        int i = 0;
+        while (i < s.length() - 1) {
+            if (mp[s[i]] < mp[s[i + 1]]) {
+                int number = mp[s[i + 1]] - mp[s[i]];
+                num += number;
+                i++;
+            } else
+                num += mp[s[i]];
+            i++;
         }
-        return sum;
-    }  
+        if (i != s.length())
+            num += mp[s[i]];
+        return num;
+    }
 };

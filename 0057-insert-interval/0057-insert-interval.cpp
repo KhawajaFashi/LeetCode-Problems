@@ -1,25 +1,45 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals,
-                               vector<int>& newInterval) {
-        int n = intervals.size(), i = 0;
+                               vector<int>& newI) {
+        int i = 0;
+        int n = intervals.size();
         vector<vector<int>> res;
-        // case 1: no overlapping case before the merge intervals
-        // compare ending point of intervals to starting point of newInterval
-        while (i < n && intervals[i][1] < newInterval[0]) {
-            res.push_back(intervals[i]);
-            i++;
-        }
-        // case 2: overlapping case and merging of intervals
-        while (i < n && newInterval[1] >= intervals[i][0]) {
-            newInterval[0] = min(newInterval[0], intervals[i][0]);
-            newInterval[1] = max(newInterval[1], intervals[i][1]);
-            i++;
-        }
-        res.push_back(newInterval);
-        // case 3: no overlapping of intervals after newinterval being merged
         while (i < n) {
-            res.push_back(intervals[i]);
+            auto num = intervals[i];
+            if (newI[0] > num[1])
+                res.push_back(num);
+            else
+                break;
+            i++;
+        }
+        while (i < n) {
+            auto num = intervals[i];
+            if (i < n - 1 && newI[1] < intervals[i + 1][0]) {
+                if (newI[1] < num[0]) {
+                    res.push_back(newI);
+                    break;
+                }
+                newI[0] = min(num[0], newI[0]);
+                newI[1] = max(num[1], newI[1]);
+                res.push_back(newI);
+                i++;
+                break;
+            }
+            else if(num[0]>newI[1])
+            {
+                res.push_back(newI);
+                break;
+            }
+            newI[0] = min(num[0], newI[0]);
+            newI[1] = max(num[1], newI[1]);
+            i++;
+        }
+        if (i == n)
+            res.push_back(newI);
+        while (i < n) {
+            auto num = intervals[i];
+            res.push_back(num);
             i++;
         }
         return res;

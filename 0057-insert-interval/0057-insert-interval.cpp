@@ -25,9 +25,7 @@ public:
                 res.push_back(newI);
                 i++;
                 break;
-            }
-            else if(num[0]>newI[1])
-            {
+            } else if (num[0] > newI[1]) {
                 res.push_back(newI);
                 break;
             }

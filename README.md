@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2755-extra-characters-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Segment Tree
 |  |

@@ -1,50 +1,21 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int start = 0;
-        int end = s.size() - 1;
-        while (start <= end) {
-            if (!isalnum(s[start])) {
-                start++;
-                continue;
+        int i = 0;
+        string newstr;
+        for (char c : s) {
+            if (c >= 65 && c <= 90) {
+                s[i] += 32;
+                newstr += s[i];
+            } else if (c >= 97 && c <= 122 || c >= '0' && c <= '9') {
+                newstr += c;
             }
-            if (!isalnum(s[end])) {
-                end--;
-                continue;
-            }
-            if (tolower(s[start]) != tolower(s[end]))
+            i++;
+        }
+        for (int i = 0, j = newstr.size() - 1; i <= j; i++, j--) {
+            if (newstr[i] != newstr[j])
                 return false;
-            else {
-                start++;
-                end--;
-            }
         }
         return true;
     }
 };
-// class Solution {
-// public:
-//     char convert(char a) { return (a + 32); }
-//     string conversion(string s) {
-//         string res;
-//         for (int i = 0; i < s.length(); i++) {
-//             if (s[i] >= 'A' && s[i] <= 'Z')
-//                 s[i] = convert(s[i]);
-//             if (s[i] >= 'A' && s[i] <= 'Z' || s[i] >= 'a' && s[i] <= 'z' ||
-//                 s[i] >= '0' && s[i] <= '9')
-//                 res.push_back(s[i]);
-//         }
-//         return res;
-//     }
-//     bool isPalindrome(string s) {
-//         s = conversion(s);
-//         int n = s.length(), i = 0, j = n - 1;
-//         while (i < j) {
-//             if (s[i] != s[j])
-//                 return false;
-//             i++;
-//             j--;
-//         }
-//         return true;
-//     }
-// };

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |

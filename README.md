@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0792-binary-search) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 ## String Matching
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
@@ -568,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

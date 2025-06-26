@@ -12,6 +12,8 @@ public:
         // node->val = node->next->val;
         // if (node->next)
         //     node->next = node->next->next;
+        ListNode* save = node;
         *node = *node->next;
+        save = NULL;
     }
 };

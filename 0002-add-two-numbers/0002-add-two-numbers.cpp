@@ -10,29 +10,42 @@
  */
 class Solution {
 public:
-     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummyHead = new ListNode(0);
-        ListNode* tail = dummyHead;
-        int carry = 0;
-
-        while (l1 != nullptr || l2 != nullptr || carry != 0) {
-            int digit1 = (l1 != nullptr) ? l1->val : 0;
-            int digit2 = (l2 != nullptr) ? l2->val : 0;
-
-            int sum = digit1 + digit2 + carry;
-            int digit = sum % 10;
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode *curr1 = l1, *curr2 = l2;
+        ListNode *res = NULL, *result;
+        int rem, carry = 0;
+        while (curr1 != NULL && curr2 != NULL) {
+            int sum = curr1->val + curr2->val + carry;
+            rem = sum % 10;
             carry = sum / 10;
-
-            ListNode* newNode = new ListNode(digit);
-            tail->next = newNode;
-            tail = tail->next;
-
-            l1 = (l1 != nullptr) ? l1->next : nullptr;
-            l2 = (l2 != nullptr) ? l2->next : nullptr;
+            if (res == NULL) {
+                res = new ListNode(rem);
+                result = res;
+            } else {
+                res->next = new ListNode(rem);
+                res = res->next;
+            }
+            curr1 = curr1->next;
+            curr2 = curr2->next;
         }
-
-        ListNode* result = dummyHead->next;
-        delete dummyHead;
+        while (curr1) {
+            int sum = curr1->val + carry;
+            rem = sum % 10;
+            carry = sum / 10;
+            res->next = new ListNode(rem);
+            res = res->next;
+            curr1 = curr1->next;
+        }
+        while (curr2) {
+            int sum = curr2->val + carry;
+            rem = sum % 10;
+            carry = sum / 10;
+            res->next = new ListNode(rem);
+            res = res->next;
+            curr2 = curr2->next;
+        }
+        if (carry)
+            res->next = new ListNode(carry);
         return result;
     }
 };

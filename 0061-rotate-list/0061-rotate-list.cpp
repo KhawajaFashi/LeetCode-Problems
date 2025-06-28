@@ -1,57 +1,46 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* rotation(ListNode* prev, ListNode* curr, ListNode*& head, int k,
-                       int count) {
-        if (curr == NULL)
-            return prev;
-        curr = rotation(curr, curr->next, head, k, count - 1);
-        if (k < count)
-            return head;
-        if (curr != NULL) {
-            prev->next = curr->next;
-            curr->next = head;
-            head = curr;
+    int Nodes(ListNode* curr) {
+        int nodes = 0;
+        while (curr) {
+            nodes++;
+            curr = curr->next;
         }
-        return prev;
+        return nodes;
     }
     ListNode* rotateRight(ListNode* head, int k) {
-        if (head == NULL || head->next == NULL)
+        int nodes = Nodes(head);
+        if (nodes <= 1 || (k % nodes) == 0)
             return head;
-        ListNode* curr = head;
-        ListNode* check = head;
-        ListNode* prev = NULL;
-        int count = 0;
-        while (check != NULL) {
-            count++;
-            check = check->next;
+        int rotation = k % nodes;
+        int prev_count = nodes - rotation;
+        ListNode *prev = NULL, *curr = head, *forw = curr->next;
+        while (prev_count && forw) {
+            prev = curr;
+            curr = forw;
+            forw = forw->next;
+            prev_count--;
         }
-        k %= count;
-        head = rotation(prev, curr, head, k, count);
+        while (forw && forw->next)
+            forw = forw->next;
+        prev->next = NULL;
+        if (forw == NULL) {
+            curr->next = head;
+            head = curr;
+            return head;
+        }
+        forw->next = head;
+        head = curr;
         return head;
     }
-    // ListNode* rotateRight(ListNode* head, int k) {
-    //     if (!head)
-    //         return head;
-
-    //     int len = 1; // number of nodes
-    //     ListNode *newH, *tail;
-    //     newH = tail = head;
-
-    //     while (tail->next) // get the number of nodes in the list
-    //     {
-    //         tail = tail->next;
-    //         len++;
-    //     }
-    //     tail->next = head; // circle the link
-
-    //     if (k %= len) {
-    //         for (auto i = 0; i < len - k; i++)
-    //             tail = tail->next; // the tail node is the (len-k)-th node
-    //             (1st
-    //                                // node is head)
-    //     }
-    //     newH = tail->next;
-    //     tail->next = NULL;
-    //     return newH;
-    // }
 };

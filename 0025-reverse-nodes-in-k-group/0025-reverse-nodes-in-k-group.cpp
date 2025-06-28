@@ -10,40 +10,66 @@
  */
 class Solution {
 public:
-    int nodes(ListNode *b)
-    {
-        ListNode *a = b;
-        int i = 0;
-        while (a != NULL)
-        {
-            i++;
-            a = a->next;
+    ListNode* reverse(ListNode* prev, ListNode* curr, ListNode* head,
+                      ListNode* forw) {
+        // if (forw)
+        // cout << curr->val << "     " << head->val << "      " << forw->val
+        //          << endl;
+        ListNode* current = curr;
+        ListNode* previous = NULL;
+        ListNode* forward = NULL;
+        while (current != forw) {
+            forward = current->next;
+            current->next = previous;
+            previous = current;
+            current = forward;
+            // if(current&&previous&&forward)
+            // cout << current->val << "     " << previous->val << "      "
+            //      << forward->val << endl;
         }
-        return i;
+        curr->next = forw;
+        // cout << "Next\n";
+        // ListNode* c = head;
+        // while (c) {
+        //     cout << c->val << "      ";
+        //     c = c->next;
+        // }
+        // cout << "\nOut of reverse Next\n";
+        return previous;
     }
-    ListNode *reverseKGroup(ListNode *head, int k)
-    {
-        if (head == NULL)
-            return NULL;
-        int len = nodes(head);
-        if (len < k)
-        {
-            return head;
-        }
-        ListNode *curr = head;
-        ListNode *prev = NULL;
-        ListNode *forw = NULL;
-        int j = 0;
-        while (curr != NULL && j < k)
-        {
-            forw = curr->next;
-            curr->next = prev;
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode* curr = head;
+        ListNode* end = head;
+        ListNode* prev = NULL;
+        ListNode* prevkaprev = NULL;
+        ListNode* forw = NULL;
+        bool save_head = false;
+        while (end && end->next) {
+            int count = k;
+            while (count!=1 && end) {
+                end = end->next;
+                count--;
+            }
+            if (end == NULL)
+                break;
+            forw = end->next;
+            // if (forw)
+            //     cout << curr->val << "     " << end->val << "      "
+            //          << forw->val << endl;
+            prevkaprev=prev;
+            prev = reverse(prev, curr, head, forw);
+            if(prevkaprev)
+            prevkaprev->next =prev;
+            end = forw;
+            if (!save_head) {
+                head = prev;
+                save_head = true;
+            }
+            // if(prevkaprev)
+            // cout<<prevkaprev->val <<"     "<<prev->val<<endl;
             prev = curr;
             curr = forw;
-            j++;
         }
-        if (curr != NULL)
-            head->next = reverseKGroup(curr, k);
-        return prev;
+        return head;
     }
 };

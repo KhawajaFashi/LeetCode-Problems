@@ -17,33 +17,35 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head == nullptr) return head;
-        Node* currentNode=head;
-        Node* storesNext;
-        while (currentNode) {
-            storesNext=currentNode->next;
-            currentNode->next= new Node(currentNode->val, NULL, NULL);
-            currentNode->next->next=storesNext;
-            currentNode=storesNext;
+        if (!head)
+            return nullptr;
+
+        Node* curr = head;
+        while (curr) {
+            Node* new_node = new Node(curr->val);
+            new_node->next = curr->next;
+            curr->next = new_node;
+            curr = new_node->next;
         }
-        currentNode=head;
-        while (currentNode) {
-            if (currentNode->random)
-                currentNode->next->random=currentNode->random->next;
-            currentNode=currentNode->next->next;
+        curr = head;
+        while (curr) {
+            if (curr->random)
+                curr->next->random = curr->random->next;
+            else
+                curr->next->random = NULL;
+            curr = curr->next->next;
         }
-        Node* original = head;
-        Node* copy = head->next;
-        currentNode = copy;
-        
-        while(original && copy)
-        {
-            original->next = original->next ? original->next->next : original->next;
-            copy->next = copy->next ? copy->next->next : copy->next;
-            
-            original = original->next;
-            copy = copy->next;
+        curr = head;
+        Node* newHead = curr->next;
+        while (curr) {
+            Node* save = curr->next;
+            curr->next = save->next;
+            if (curr->next)
+                save->next = curr->next->next;
+            else
+                save->next = NULL;
+            curr = curr->next;
         }
-        return currentNode;
+        return newHead;
     }
 };

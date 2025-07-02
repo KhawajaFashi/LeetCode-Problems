@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0792-binary-search) |

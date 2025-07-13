@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0729-my-calendar-i) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Brainteaser
 |  |

@@ -12,14 +12,14 @@ public:
             s2.push(ele);
             s1.pop();
         }
-        int el = s2.top();
+        int val = s2.top();
         s2.pop();
         while (!s2.empty()) {
             int ele = s2.top();
             s1.push(ele);
             s2.pop();
         }
-        return el;
+        return val;
     }
 
     int peek() {
@@ -28,20 +28,16 @@ public:
             s2.push(ele);
             s1.pop();
         }
-        int el = s2.top();
+        int val = s2.top();
         while (!s2.empty()) {
             int ele = s2.top();
             s1.push(ele);
             s2.pop();
         }
-        return el;
+        return val;
     }
 
-    bool empty() {
-        if (s1.empty())
-            return true;
-        return false;
-    }
+    bool empty() { return s1.empty(); }
 };
 
 /**

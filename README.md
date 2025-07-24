@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Tree
 |  |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Segment Tree
 |  |
 | ------- |

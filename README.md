@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0686-repeated-string-match](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0841-shortest-distance-to-a-character](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/KhawajaFashi/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 ## Queue
 |  |
 | ------- |
